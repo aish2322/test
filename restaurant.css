@@ -1,0 +1,45 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Oxygen' , sans-serif;
+    background-color: #802c2c;
+}
+
+#header-nav{
+    background-color: #efef26;
+    height: 90px;
+    border: 0;
+    border-radius: 0px;
+    
+}
+
+.navbar-brand{
+    padding-top:0px;
+    text-shadow: 2px 2px 1px #222;
+    
+}
+
+.navbar-toggle{
+    width: 30px;
+    height: 30px;
+}
+
+#nav-list{
+    margin-top: 20px;
+    padding:0px;
+    text-align: center;
+    background-color:  #efef26;
+    width: 100%;
+}
+
+.menu{
+    margin-top: px;
+    font-size: 30px;
+        text-align: center;
+
+}
+
+.chi , .bee , .sus{
+    background-color: #efef26;
+    color: black;
+}
